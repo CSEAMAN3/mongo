@@ -4,7 +4,7 @@ import "./Home.css";
 export default function Home() {
   return (
     <main>
-      <h3>qwertyuiop</h3>
+      <h3>Welcome to the home page</h3>
     </main>
   );
 }
